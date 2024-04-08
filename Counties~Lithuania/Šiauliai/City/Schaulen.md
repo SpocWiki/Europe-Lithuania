@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.4] 
-[geo-lat::55.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.4] 
+[has_place_latitude::55.95] 
 [name::Schaulen] 
 State ::  
 Country :: [[Russia]]  

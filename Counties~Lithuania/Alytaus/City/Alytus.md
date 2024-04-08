@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.13] 
-[geo-lat::54.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.13] 
+[has_place_latitude::54.43] 
 [name::Alytus] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.8] 
-[geo-lat::55.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.8] 
+[has_place_latitude::55.55] 
 [name::Gudzianai] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24] 
-[geo-lat::55.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24] 
+[has_place_latitude::55.3] 
 [name::Kedeiniai] 
 State ::  
 Country :: [[Russia]]  

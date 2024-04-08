@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.9] 
-[geo-lat::54.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.9] 
+[has_place_latitude::54.9] 
 [name::Kaunas=Kowno] 
 State ::  
 Country :: [[Russia]]  

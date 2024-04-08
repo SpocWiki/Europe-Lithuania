@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.17] 
-[geo-lat::55.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.17] 
+[has_place_latitude::55.13] 
 [name::Sventziary] 
 State ::  
 Country :: [[Russia]]  
