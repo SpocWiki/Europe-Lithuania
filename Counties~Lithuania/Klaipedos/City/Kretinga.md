@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kretinga|Kretinga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kretinga.public|Kretinga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kretinga.internal|Kretinga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kretinga.protect|Kretinga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kretinga.private|Kretinga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kretinga.personal|Kretinga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kretinga.secret|Kretinga.secret]] 
+
+### [Kretinga.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityKretinga.public.md) 
+
+### [Kretinga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityKretinga.internal.md) 
+
+### [Kretinga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityKretinga.protect.md) 
+
+### [Kretinga.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityKretinga.private.md) 
+
+### [Kretinga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityKretinga.personal.md) 
+
+### [Kretinga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityKretinga.secret.md)
+

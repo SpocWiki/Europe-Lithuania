@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Alytus|Alytus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Alytus.public|Alytus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Alytus.internal|Alytus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Alytus.protect|Alytus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Alytus.private|Alytus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Alytus.personal|Alytus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Alytus.secret|Alytus.secret]] 
+
+### [Alytus.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.public.md) 
+
+### [Alytus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.internal.md) 
+
+### [Alytus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.protect.md) 
+
+### [Alytus.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.private.md) 
+
+### [Alytus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.personal.md) 
+
+### [Alytus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.secret.md)
+

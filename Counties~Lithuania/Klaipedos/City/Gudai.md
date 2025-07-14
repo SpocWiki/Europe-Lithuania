@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Gudai|Gudai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Gudai.public|Gudai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Gudai.internal|Gudai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Gudai.protect|Gudai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Gudai.private|Gudai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Gudai.personal|Gudai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Gudai.secret|Gudai.secret]] 
+
+### [Gudai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGudai.public.md) 
+
+### [Gudai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGudai.internal.md) 
+
+### [Gudai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGudai.protect.md) 
+
+### [Gudai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGudai.private.md) 
+
+### [Gudai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGudai.personal.md) 
+
+### [Gudai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGudai.secret.md)
+

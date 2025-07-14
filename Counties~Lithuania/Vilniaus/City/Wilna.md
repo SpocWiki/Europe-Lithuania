@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Wilna|Wilna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Wilna.public|Wilna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Wilna.internal|Wilna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Wilna.protect|Wilna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Wilna.private|Wilna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Wilna.personal|Wilna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Wilna.secret|Wilna.secret]] 
+
+### [Wilna.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilna.public.md) 
+
+### [Wilna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilna.internal.md) 
+
+### [Wilna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilna.protect.md) 
+
+### [Wilna.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilna.private.md) 
+
+### [Wilna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilna.personal.md) 
+
+### [Wilna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilna.secret.md)
+

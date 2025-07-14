@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Didkienis|Didkienis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Didkienis.public|Didkienis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Didkienis.internal|Didkienis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Didkienis.protect|Didkienis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Didkienis.private|Didkienis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Didkienis.personal|Didkienis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Didkienis.secret|Didkienis.secret]] 
+
+### [Didkienis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.public.md) 
+
+### [Didkienis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.internal.md) 
+
+### [Didkienis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.protect.md) 
+
+### [Didkienis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.private.md) 
+
+### [Didkienis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.personal.md) 
+
+### [Didkienis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.secret.md)
+

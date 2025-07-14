@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Paasmené|Paasmené]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Paasmené.public|Paasmené.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Paasmené.internal|Paasmené.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Paasmené.protect|Paasmené.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Paasmené.private|Paasmené.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Paasmené.personal|Paasmené.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Paasmené.secret|Paasmené.secret]] 
+
+### [Paasmené.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPaasmené.public.md) 
+
+### [Paasmené.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPaasmené.internal.md) 
+
+### [Paasmené.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPaasmené.protect.md) 
+
+### [Paasmené.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPaasmené.private.md) 
+
+### [Paasmené.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPaasmené.personal.md) 
+
+### [Paasmené.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPaasmené.secret.md)
+

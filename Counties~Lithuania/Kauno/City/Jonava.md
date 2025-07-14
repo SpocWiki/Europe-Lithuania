@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Jonava|Jonava]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Jonava.public|Jonava.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Jonava.internal|Jonava.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Jonava.protect|Jonava.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Jonava.private|Jonava.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Jonava.personal|Jonava.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Jonava.secret|Jonava.secret]] 
+
+### [Jonava.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityJonava.public.md) 
+
+### [Jonava.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityJonava.internal.md) 
+
+### [Jonava.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityJonava.protect.md) 
+
+### [Jonava.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityJonava.private.md) 
+
+### [Jonava.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityJonava.personal.md) 
+
+### [Jonava.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityJonava.secret.md)
+

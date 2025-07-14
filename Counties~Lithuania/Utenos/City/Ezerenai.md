@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Ezerenai|Ezerenai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Ezerenai.public|Ezerenai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Ezerenai.internal|Ezerenai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Ezerenai.protect|Ezerenai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Ezerenai.private|Ezerenai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Ezerenai.personal|Ezerenai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Ezerenai.secret|Ezerenai.secret]] 
+
+### [Ezerenai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.public.md) 
+
+### [Ezerenai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.internal.md) 
+
+### [Ezerenai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.protect.md) 
+
+### [Ezerenai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.private.md) 
+
+### [Ezerenai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.personal.md) 
+
+### [Ezerenai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Linkuva|Linkuva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Linkuva.public|Linkuva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Linkuva.internal|Linkuva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Linkuva.protect|Linkuva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Linkuva.private|Linkuva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Linkuva.personal|Linkuva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Linkuva.secret|Linkuva.secret]] 
+
+### [Linkuva.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityLinkuva.public.md) 
+
+### [Linkuva.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityLinkuva.internal.md) 
+
+### [Linkuva.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityLinkuva.protect.md) 
+
+### [Linkuva.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityLinkuva.private.md) 
+
+### [Linkuva.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityLinkuva.personal.md) 
+
+### [Linkuva.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityLinkuva.secret.md)
+

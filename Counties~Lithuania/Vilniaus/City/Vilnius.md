@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/City/Vilnius|Vilnius]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/City/Vilnius.public|Vilnius.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/City/Vilnius.internal|Vilnius.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/City/Vilnius.protect|Vilnius.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/City/Vilnius.private|Vilnius.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/City/Vilnius.personal|Vilnius.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/City/Vilnius.secret|Vilnius.secret]] 
+
+### [Vilnius.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityVilnius.public.md) 
+
+### [Vilnius.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityVilnius.internal.md) 
+
+### [Vilnius.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityVilnius.protect.md) 
+
+### [Vilnius.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityVilnius.private.md) 
+
+### [Vilnius.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityVilnius.personal.md) 
+
+### [Vilnius.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityVilnius.secret.md)
+

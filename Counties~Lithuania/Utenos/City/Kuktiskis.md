@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kuktiskis|Kuktiskis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kuktiskis.public|Kuktiskis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kuktiskis.internal|Kuktiskis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kuktiskis.protect|Kuktiskis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kuktiskis.private|Kuktiskis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kuktiskis.personal|Kuktiskis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kuktiskis.secret|Kuktiskis.secret]] 
+
+### [Kuktiskis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.public.md) 
+
+### [Kuktiskis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.internal.md) 
+
+### [Kuktiskis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.protect.md) 
+
+### [Kuktiskis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.private.md) 
+
+### [Kuktiskis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.personal.md) 
+
+### [Kuktiskis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.secret.md)
+

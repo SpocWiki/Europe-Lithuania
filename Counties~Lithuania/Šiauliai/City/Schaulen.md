@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Schaulen|Schaulen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Schaulen.public|Schaulen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Schaulen.internal|Schaulen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Schaulen.protect|Schaulen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Schaulen.private|Schaulen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Schaulen.personal|Schaulen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Schaulen.secret|Schaulen.secret]] 
+
+### [Schaulen.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySchaulen.public.md) 
+
+### [Schaulen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySchaulen.internal.md) 
+
+### [Schaulen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySchaulen.protect.md) 
+
+### [Schaulen.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySchaulen.private.md) 
+
+### [Schaulen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySchaulen.personal.md) 
+
+### [Schaulen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySchaulen.secret.md)
+

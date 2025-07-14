@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Panemunis|Panemunis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Panemunis.public|Panemunis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Panemunis.internal|Panemunis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Panemunis.protect|Panemunis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Panemunis.private|Panemunis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Panemunis.personal|Panemunis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Panemunis.secret|Panemunis.secret]] 
+
+### [Panemunis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.public.md) 
+
+### [Panemunis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.internal.md) 
+
+### [Panemunis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.protect.md) 
+
+### [Panemunis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.private.md) 
+
+### [Panemunis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.personal.md) 
+
+### [Panemunis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.secret.md)
+

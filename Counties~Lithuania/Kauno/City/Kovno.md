@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kovno|Kovno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kovno.public|Kovno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kovno.internal|Kovno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kovno.protect|Kovno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kovno.private|Kovno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kovno.personal|Kovno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kovno.secret|Kovno.secret]] 
+
+### [Kovno.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKovno.public.md) 
+
+### [Kovno.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKovno.internal.md) 
+
+### [Kovno.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKovno.protect.md) 
+
+### [Kovno.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKovno.private.md) 
+
+### [Kovno.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKovno.personal.md) 
+
+### [Kovno.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKovno.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kaisiadorys|Kaisiadorys]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kaisiadorys.public|Kaisiadorys.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kaisiadorys.internal|Kaisiadorys.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kaisiadorys.protect|Kaisiadorys.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kaisiadorys.private|Kaisiadorys.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kaisiadorys.personal|Kaisiadorys.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kaisiadorys.secret|Kaisiadorys.secret]] 
+
+### [Kaisiadorys.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaisiadorys.public.md) 
+
+### [Kaisiadorys.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaisiadorys.internal.md) 
+
+### [Kaisiadorys.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaisiadorys.protect.md) 
+
+### [Kaisiadorys.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaisiadorys.private.md) 
+
+### [Kaisiadorys.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaisiadorys.personal.md) 
+
+### [Kaisiadorys.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaisiadorys.secret.md)
+

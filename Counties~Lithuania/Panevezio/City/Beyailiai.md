@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Beyailiai|Beyailiai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Beyailiai.public|Beyailiai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Beyailiai.internal|Beyailiai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Beyailiai.protect|Beyailiai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Beyailiai.private|Beyailiai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Beyailiai.personal|Beyailiai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Beyailiai.secret|Beyailiai.secret]] 
+
+### [Beyailiai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.public.md) 
+
+### [Beyailiai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.internal.md) 
+
+### [Beyailiai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.protect.md) 
+
+### [Beyailiai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.private.md) 
+
+### [Beyailiai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.personal.md) 
+
+### [Beyailiai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.secret.md)
+

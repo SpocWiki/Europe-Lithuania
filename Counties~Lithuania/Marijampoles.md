@@ -40,11 +40,16 @@ markerFolder: ./Marijampoles/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Marijampoles|Marijampoles]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Marijampoles.public|Marijampoles.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Marijampoles.internal|Marijampoles.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Marijampoles.protect|Marijampoles.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Marijampoles.private|Marijampoles.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Marijampoles.personal|Marijampoles.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Marijampoles.secret|Marijampoles.secret]] 
+
+### [Marijampoles.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaMarijampoles.public.md) 
+
+### [Marijampoles.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaMarijampoles.internal.md) 
+
+### [Marijampoles.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaMarijampoles.protect.md) 
+
+### [Marijampoles.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaMarijampoles.private.md) 
+
+### [Marijampoles.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaMarijampoles.personal.md) 
+
+### [Marijampoles.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaMarijampoles.secret.md)
 

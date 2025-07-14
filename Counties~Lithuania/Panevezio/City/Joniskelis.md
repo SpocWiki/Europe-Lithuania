@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Joniskelis|Joniskelis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Joniskelis.public|Joniskelis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Joniskelis.internal|Joniskelis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Joniskelis.protect|Joniskelis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Joniskelis.private|Joniskelis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Joniskelis.personal|Joniskelis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Joniskelis.secret|Joniskelis.secret]] 
+
+### [Joniskelis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityJoniskelis.public.md) 
+
+### [Joniskelis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityJoniskelis.internal.md) 
+
+### [Joniskelis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityJoniskelis.protect.md) 
+
+### [Joniskelis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityJoniskelis.private.md) 
+
+### [Joniskelis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityJoniskelis.personal.md) 
+
+### [Joniskelis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityJoniskelis.secret.md)
+

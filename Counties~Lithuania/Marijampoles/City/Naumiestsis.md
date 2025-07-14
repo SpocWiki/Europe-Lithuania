@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Naumiestsis|Naumiestsis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Naumiestsis.public|Naumiestsis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Naumiestsis.internal|Naumiestsis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Naumiestsis.protect|Naumiestsis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Naumiestsis.private|Naumiestsis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Naumiestsis.personal|Naumiestsis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Naumiestsis.secret|Naumiestsis.secret]] 
+
+### [Naumiestsis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityNaumiestsis.public.md) 
+
+### [Naumiestsis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityNaumiestsis.internal.md) 
+
+### [Naumiestsis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityNaumiestsis.protect.md) 
+
+### [Naumiestsis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityNaumiestsis.private.md) 
+
+### [Naumiestsis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityNaumiestsis.personal.md) 
+
+### [Naumiestsis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityNaumiestsis.secret.md)
+

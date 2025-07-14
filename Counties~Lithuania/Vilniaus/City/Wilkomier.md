@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Wilkomier|Wilkomier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Wilkomier.public|Wilkomier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Wilkomier.internal|Wilkomier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Wilkomier.protect|Wilkomier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Wilkomier.private|Wilkomier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Wilkomier.personal|Wilkomier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Wilkomier.secret|Wilkomier.secret]] 
+
+### [Wilkomier.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilkomier.public.md) 
+
+### [Wilkomier.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilkomier.internal.md) 
+
+### [Wilkomier.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilkomier.protect.md) 
+
+### [Wilkomier.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilkomier.private.md) 
+
+### [Wilkomier.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilkomier.personal.md) 
+
+### [Wilkomier.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityWilkomier.secret.md)
+

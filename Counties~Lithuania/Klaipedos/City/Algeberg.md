@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Algeberg|Algeberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Algeberg.public|Algeberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Algeberg.internal|Algeberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Algeberg.protect|Algeberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Algeberg.private|Algeberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Algeberg.personal|Algeberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Algeberg.secret|Algeberg.secret]] 
+
+### [Algeberg.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityAlgeberg.public.md) 
+
+### [Algeberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityAlgeberg.internal.md) 
+
+### [Algeberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityAlgeberg.protect.md) 
+
+### [Algeberg.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityAlgeberg.private.md) 
+
+### [Algeberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityAlgeberg.personal.md) 
+
+### [Algeberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityAlgeberg.secret.md)
+

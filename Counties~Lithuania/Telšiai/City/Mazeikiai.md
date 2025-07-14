@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Mazeikiai|Mazeikiai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Mazeikiai.public|Mazeikiai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Mazeikiai.internal|Mazeikiai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Mazeikiai.protect|Mazeikiai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Mazeikiai.private|Mazeikiai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Mazeikiai.personal|Mazeikiai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Mazeikiai.secret|Mazeikiai.secret]] 
+
+### [Mazeikiai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityMazeikiai.public.md) 
+
+### [Mazeikiai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityMazeikiai.internal.md) 
+
+### [Mazeikiai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityMazeikiai.protect.md) 
+
+### [Mazeikiai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityMazeikiai.private.md) 
+
+### [Mazeikiai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityMazeikiai.personal.md) 
+
+### [Mazeikiai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityMazeikiai.secret.md)
+

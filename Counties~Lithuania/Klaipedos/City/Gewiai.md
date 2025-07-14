@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Gewiai|Gewiai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Gewiai.public|Gewiai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Gewiai.internal|Gewiai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Gewiai.protect|Gewiai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Gewiai.private|Gewiai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Gewiai.personal|Gewiai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Gewiai.secret|Gewiai.secret]] 
+
+### [Gewiai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.public.md) 
+
+### [Gewiai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.internal.md) 
+
+### [Gewiai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.protect.md) 
+
+### [Gewiai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.private.md) 
+
+### [Gewiai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.personal.md) 
+
+### [Gewiai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Jurbarkas|Jurbarkas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Jurbarkas.public|Jurbarkas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Jurbarkas.internal|Jurbarkas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Jurbarkas.protect|Jurbarkas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Jurbarkas.private|Jurbarkas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Jurbarkas.personal|Jurbarkas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Jurbarkas.secret|Jurbarkas.secret]] 
+
+### [Jurbarkas.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityJurbarkas.public.md) 
+
+### [Jurbarkas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityJurbarkas.internal.md) 
+
+### [Jurbarkas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityJurbarkas.protect.md) 
+
+### [Jurbarkas.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityJurbarkas.private.md) 
+
+### [Jurbarkas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityJurbarkas.personal.md) 
+
+### [Jurbarkas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityJurbarkas.secret.md)
+

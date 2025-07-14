@@ -40,11 +40,16 @@ markerFolder: ./Kauno/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno|Kauno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.public|Kauno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.internal|Kauno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.protect|Kauno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.private|Kauno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.personal|Kauno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.secret|Kauno.secret]] 
+
+### [Kauno.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.public.md) 
+
+### [Kauno.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.internal.md) 
+
+### [Kauno.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.protect.md) 
+
+### [Kauno.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.private.md) 
+
+### [Kauno.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.personal.md) 
+
+### [Kauno.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.secret.md)
 

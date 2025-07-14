@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Siauliai|Siauliai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Siauliai.public|Siauliai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Siauliai.internal|Siauliai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Siauliai.protect|Siauliai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Siauliai.private|Siauliai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Siauliai.personal|Siauliai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Siauliai.secret|Siauliai.secret]] 
+
+### [Siauliai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySiauliai.public.md) 
+
+### [Siauliai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySiauliai.internal.md) 
+
+### [Siauliai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySiauliai.protect.md) 
+
+### [Siauliai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySiauliai.private.md) 
+
+### [Siauliai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySiauliai.personal.md) 
+
+### [Siauliai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CitySiauliai.secret.md)
+

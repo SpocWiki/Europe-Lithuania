@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Troki|Troki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Troki.public|Troki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Troki.internal|Troki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Troki.protect|Troki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Troki.private|Troki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Troki.personal|Troki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Troki.secret|Troki.secret]] 
+
+### [Troki.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityTroki.public.md) 
+
+### [Troki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityTroki.internal.md) 
+
+### [Troki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityTroki.protect.md) 
+
+### [Troki.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityTroki.private.md) 
+
+### [Troki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityTroki.personal.md) 
+
+### [Troki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityTroki.secret.md)
+

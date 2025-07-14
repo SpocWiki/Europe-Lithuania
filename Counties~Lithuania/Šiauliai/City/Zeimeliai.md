@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Zeimeliai|Zeimeliai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Zeimeliai.public|Zeimeliai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Zeimeliai.internal|Zeimeliai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Zeimeliai.protect|Zeimeliai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Zeimeliai.private|Zeimeliai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Zeimeliai.personal|Zeimeliai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Zeimeliai.secret|Zeimeliai.secret]] 
+
+### [Zeimeliai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.public.md) 
+
+### [Zeimeliai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.internal.md) 
+
+### [Zeimeliai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.protect.md) 
+
+### [Zeimeliai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.private.md) 
+
+### [Zeimeliai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.personal.md) 
+
+### [Zeimeliai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Schmalleningken|Schmalleningken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Schmalleningken.public|Schmalleningken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Schmalleningken.internal|Schmalleningken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Schmalleningken.protect|Schmalleningken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Schmalleningken.private|Schmalleningken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Schmalleningken.personal|Schmalleningken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Schmalleningken.secret|Schmalleningken.secret]] 
+
+### [Schmalleningken.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CitySchmalleningken.public.md) 
+
+### [Schmalleningken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CitySchmalleningken.internal.md) 
+
+### [Schmalleningken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CitySchmalleningken.protect.md) 
+
+### [Schmalleningken.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CitySchmalleningken.private.md) 
+
+### [Schmalleningken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CitySchmalleningken.personal.md) 
+
+### [Schmalleningken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CitySchmalleningken.secret.md)
+

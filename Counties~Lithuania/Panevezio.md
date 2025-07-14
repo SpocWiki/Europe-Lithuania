@@ -40,11 +40,16 @@ markerFolder: ./Panevezio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Panevezio|Panevezio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Panevezio.public|Panevezio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Panevezio.internal|Panevezio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Panevezio.protect|Panevezio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Panevezio.private|Panevezio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Panevezio.personal|Panevezio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Panevezio.secret|Panevezio.secret]] 
+
+### [Panevezio.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.public.md) 
+
+### [Panevezio.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.internal.md) 
+
+### [Panevezio.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.protect.md) 
+
+### [Panevezio.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.private.md) 
+
+### [Panevezio.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.personal.md) 
+
+### [Panevezio.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.secret.md)
 

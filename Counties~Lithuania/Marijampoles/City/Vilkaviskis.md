@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vilkaviskis|Vilkaviskis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vilkaviskis.public|Vilkaviskis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vilkaviskis.internal|Vilkaviskis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vilkaviskis.protect|Vilkaviskis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vilkaviskis.private|Vilkaviskis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vilkaviskis.personal|Vilkaviskis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vilkaviskis.secret|Vilkaviskis.secret]] 
+
+### [Vilkaviskis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityVilkaviskis.public.md) 
+
+### [Vilkaviskis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityVilkaviskis.internal.md) 
+
+### [Vilkaviskis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityVilkaviskis.protect.md) 
+
+### [Vilkaviskis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityVilkaviskis.private.md) 
+
+### [Vilkaviskis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityVilkaviskis.personal.md) 
+
+### [Vilkaviskis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityVilkaviskis.secret.md)
+

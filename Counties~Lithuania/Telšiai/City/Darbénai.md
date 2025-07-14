@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Darbénai|Darbénai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Darbénai.public|Darbénai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Darbénai.internal|Darbénai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Darbénai.protect|Darbénai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Darbénai.private|Darbénai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Darbénai.personal|Darbénai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Darbénai.secret|Darbénai.secret]] 
+
+### [Darbénai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityDarbénai.public.md) 
+
+### [Darbénai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityDarbénai.internal.md) 
+
+### [Darbénai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityDarbénai.protect.md) 
+
+### [Darbénai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityDarbénai.private.md) 
+
+### [Darbénai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityDarbénai.personal.md) 
+
+### [Darbénai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityDarbénai.secret.md)
+

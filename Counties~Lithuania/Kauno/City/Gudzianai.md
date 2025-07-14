@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Gudzianai|Gudzianai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Gudzianai.public|Gudzianai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Gudzianai.internal|Gudzianai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Gudzianai.protect|Gudzianai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Gudzianai.private|Gudzianai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Gudzianai.personal|Gudzianai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Gudzianai.secret|Gudzianai.secret]] 
+
+### [Gudzianai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.public.md) 
+
+### [Gudzianai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.internal.md) 
+
+### [Gudzianai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.protect.md) 
+
+### [Gudzianai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.private.md) 
+
+### [Gudzianai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.personal.md) 
+
+### [Gudzianai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.secret.md)
+

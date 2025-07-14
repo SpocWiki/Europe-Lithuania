@@ -40,11 +40,16 @@ markerFolder: ./Alytaus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus|Alytaus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.public|Alytaus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.internal|Alytaus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.protect|Alytaus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.private|Alytaus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.personal|Alytaus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.secret|Alytaus.secret]] 
+
+### [Alytaus.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaAlytaus.public.md) 
+
+### [Alytaus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaAlytaus.internal.md) 
+
+### [Alytaus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaAlytaus.protect.md) 
+
+### [Alytaus.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaAlytaus.private.md) 
+
+### [Alytaus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaAlytaus.personal.md) 
+
+### [Alytaus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaAlytaus.secret.md)
 

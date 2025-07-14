@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Raseiniai|Raseiniai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Raseiniai.public|Raseiniai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Raseiniai.internal|Raseiniai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Raseiniai.protect|Raseiniai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Raseiniai.private|Raseiniai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Raseiniai.personal|Raseiniai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Raseiniai.secret|Raseiniai.secret]] 
+
+### [Raseiniai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityRaseiniai.public.md) 
+
+### [Raseiniai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityRaseiniai.internal.md) 
+
+### [Raseiniai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityRaseiniai.protect.md) 
+
+### [Raseiniai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityRaseiniai.private.md) 
+
+### [Raseiniai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityRaseiniai.personal.md) 
+
+### [Raseiniai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityRaseiniai.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Dabikine|Dabikine]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Dabikine.public|Dabikine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Dabikine.internal|Dabikine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Dabikine.protect|Dabikine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Dabikine.private|Dabikine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Dabikine.personal|Dabikine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Dabikine.secret|Dabikine.secret]] 
+
+### [Dabikine.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityDabikine.public.md) 
+
+### [Dabikine.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityDabikine.internal.md) 
+
+### [Dabikine.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityDabikine.protect.md) 
+
+### [Dabikine.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityDabikine.private.md) 
+
+### [Dabikine.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityDabikine.personal.md) 
+
+### [Dabikine.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityDabikine.secret.md)
+

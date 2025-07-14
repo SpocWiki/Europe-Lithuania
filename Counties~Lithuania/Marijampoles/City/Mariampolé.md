@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Mariampolé|Mariampolé]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Mariampolé.public|Mariampolé.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Mariampolé.internal|Mariampolé.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Mariampolé.protect|Mariampolé.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Mariampolé.private|Mariampolé.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Mariampolé.personal|Mariampolé.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Mariampolé.secret|Mariampolé.secret]] 
+
+### [Mariampolé.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.public.md) 
+
+### [Mariampolé.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.internal.md) 
+
+### [Mariampolé.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.protect.md) 
+
+### [Mariampolé.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.private.md) 
+
+### [Mariampolé.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.personal.md) 
+
+### [Mariampolé.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.secret.md)
+

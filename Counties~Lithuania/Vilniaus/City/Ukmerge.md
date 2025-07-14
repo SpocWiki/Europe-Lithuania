@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Ukmerge|Ukmerge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Ukmerge.public|Ukmerge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Ukmerge.internal|Ukmerge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Ukmerge.protect|Ukmerge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Ukmerge.private|Ukmerge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Ukmerge.personal|Ukmerge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Ukmerge.secret|Ukmerge.secret]] 
+
+### [Ukmerge.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityUkmerge.public.md) 
+
+### [Ukmerge.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityUkmerge.internal.md) 
+
+### [Ukmerge.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityUkmerge.protect.md) 
+
+### [Ukmerge.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityUkmerge.private.md) 
+
+### [Ukmerge.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityUkmerge.personal.md) 
+
+### [Ukmerge.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CityUkmerge.secret.md)
+

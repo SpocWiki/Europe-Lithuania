@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Memel|Memel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Memel.public|Memel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Memel.internal|Memel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Memel.protect|Memel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Memel.private|Memel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Memel.personal|Memel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Memel.secret|Memel.secret]] 
+
+### [Memel.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityMemel.public.md) 
+
+### [Memel.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityMemel.internal.md) 
+
+### [Memel.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityMemel.protect.md) 
+
+### [Memel.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityMemel.private.md) 
+
+### [Memel.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityMemel.personal.md) 
+
+### [Memel.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityMemel.secret.md)
+
