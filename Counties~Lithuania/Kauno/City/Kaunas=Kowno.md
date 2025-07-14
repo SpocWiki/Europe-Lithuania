@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaunas=Kowno.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaunas=Kowno.public.md) 
+### [Kaunas=Kowno](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Kaunas=Kowno.md) 
 
-### [Kaunas=Kowno.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaunas=Kowno.internal.md) 
+### [Kaunas=Kowno.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Kaunas=Kowno.public.md) 
 
-### [Kaunas=Kowno.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaunas=Kowno.protect.md) 
+### [Kaunas=Kowno.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Kaunas=Kowno.internal.md) 
 
-### [Kaunas=Kowno.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaunas=Kowno.private.md) 
+### [Kaunas=Kowno.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Kaunas=Kowno.protect.md) 
 
-### [Kaunas=Kowno.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaunas=Kowno.personal.md) 
+### [Kaunas=Kowno.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Kaunas=Kowno.private.md) 
 
-### [Kaunas=Kowno.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityKaunas=Kowno.secret.md)
+### [Kaunas=Kowno.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Kaunas=Kowno.personal.md) 
+
+### [Kaunas=Kowno.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Kaunas=Kowno.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gudzianai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.public.md) 
+### [Gudzianai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Gudzianai.md) 
 
-### [Gudzianai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.internal.md) 
+### [Gudzianai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Gudzianai.public.md) 
 
-### [Gudzianai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.protect.md) 
+### [Gudzianai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Gudzianai.internal.md) 
 
-### [Gudzianai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.private.md) 
+### [Gudzianai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Gudzianai.protect.md) 
 
-### [Gudzianai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.personal.md) 
+### [Gudzianai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Gudzianai.private.md) 
 
-### [Gudzianai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Kauno\CityGudzianai.secret.md)
+### [Gudzianai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Gudzianai.personal.md) 
+
+### [Gudzianai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno/City/Gudzianai.secret.md)
 

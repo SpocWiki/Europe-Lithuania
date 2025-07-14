@@ -41,15 +41,17 @@ markerFolder: ./Panevezio/
 
 ## Confidential Links & Embeds: 
 
-### [Panevezio.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.public.md) 
+### [Panevezio](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio.md) 
 
-### [Panevezio.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.internal.md) 
+### [Panevezio.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio.public.md) 
 
-### [Panevezio.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.protect.md) 
+### [Panevezio.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio.internal.md) 
 
-### [Panevezio.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.private.md) 
+### [Panevezio.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio.protect.md) 
 
-### [Panevezio.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.personal.md) 
+### [Panevezio.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio.private.md) 
 
-### [Panevezio.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaPanevezio.secret.md)
+### [Panevezio.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio.personal.md) 
+
+### [Panevezio.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio.secret.md)
 

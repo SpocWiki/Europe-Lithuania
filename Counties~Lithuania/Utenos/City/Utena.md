@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utena.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityUtena.public.md) 
+### [Utena](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Utena.md) 
 
-### [Utena.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityUtena.internal.md) 
+### [Utena.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Utena.public.md) 
 
-### [Utena.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityUtena.protect.md) 
+### [Utena.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Utena.internal.md) 
 
-### [Utena.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityUtena.private.md) 
+### [Utena.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Utena.protect.md) 
 
-### [Utena.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityUtena.personal.md) 
+### [Utena.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Utena.private.md) 
 
-### [Utena.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityUtena.secret.md)
+### [Utena.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Utena.personal.md) 
+
+### [Utena.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Utena.secret.md)
 

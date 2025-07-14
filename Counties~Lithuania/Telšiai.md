@@ -41,15 +41,17 @@ markerFolder: ./Telšiai/
 
 ## Confidential Links & Embeds: 
 
-### [Telšiai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTelšiai.public.md) 
+### [Telšiai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai.md) 
 
-### [Telšiai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTelšiai.internal.md) 
+### [Telšiai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai.public.md) 
 
-### [Telšiai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTelšiai.protect.md) 
+### [Telšiai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai.internal.md) 
 
-### [Telšiai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTelšiai.private.md) 
+### [Telšiai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai.protect.md) 
 
-### [Telšiai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTelšiai.personal.md) 
+### [Telšiai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai.private.md) 
 
-### [Telšiai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTelšiai.secret.md)
+### [Telšiai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai.personal.md) 
+
+### [Telšiai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai.secret.md)
 

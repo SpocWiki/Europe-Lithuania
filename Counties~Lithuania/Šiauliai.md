@@ -41,15 +41,17 @@ markerFolder: ./Šiauliai/
 
 ## Confidential Links & Embeds: 
 
-### [Šiauliai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaŠiauliai.public.md) 
+### [Šiauliai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai.md) 
 
-### [Šiauliai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaŠiauliai.internal.md) 
+### [Šiauliai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai.public.md) 
 
-### [Šiauliai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaŠiauliai.protect.md) 
+### [Šiauliai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai.internal.md) 
 
-### [Šiauliai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaŠiauliai.private.md) 
+### [Šiauliai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai.protect.md) 
 
-### [Šiauliai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaŠiauliai.personal.md) 
+### [Šiauliai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai.private.md) 
 
-### [Šiauliai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaŠiauliai.secret.md)
+### [Šiauliai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai.personal.md) 
+
+### [Šiauliai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai.secret.md)
 

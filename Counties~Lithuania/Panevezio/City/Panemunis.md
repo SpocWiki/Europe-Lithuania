@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Panemunis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.public.md) 
+### [Panemunis](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panemunis.md) 
 
-### [Panemunis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.internal.md) 
+### [Panemunis.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panemunis.public.md) 
 
-### [Panemunis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.protect.md) 
+### [Panemunis.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panemunis.internal.md) 
 
-### [Panemunis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.private.md) 
+### [Panemunis.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panemunis.protect.md) 
 
-### [Panemunis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.personal.md) 
+### [Panemunis.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panemunis.private.md) 
 
-### [Panemunis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanemunis.secret.md)
+### [Panemunis.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panemunis.personal.md) 
+
+### [Panemunis.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panemunis.secret.md)
 

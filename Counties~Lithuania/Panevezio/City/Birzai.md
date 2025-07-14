@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Birzai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBirzai.public.md) 
+### [Birzai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Birzai.md) 
 
-### [Birzai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBirzai.internal.md) 
+### [Birzai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Birzai.public.md) 
 
-### [Birzai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBirzai.protect.md) 
+### [Birzai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Birzai.internal.md) 
 
-### [Birzai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBirzai.private.md) 
+### [Birzai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Birzai.protect.md) 
 
-### [Birzai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBirzai.personal.md) 
+### [Birzai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Birzai.private.md) 
 
-### [Birzai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBirzai.secret.md)
+### [Birzai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Birzai.personal.md) 
+
+### [Birzai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Birzai.secret.md)
 

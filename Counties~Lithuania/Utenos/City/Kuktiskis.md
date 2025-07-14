@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuktiskis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.public.md) 
+### [Kuktiskis](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Kuktiskis.md) 
 
-### [Kuktiskis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.internal.md) 
+### [Kuktiskis.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Kuktiskis.public.md) 
 
-### [Kuktiskis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.protect.md) 
+### [Kuktiskis.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Kuktiskis.internal.md) 
 
-### [Kuktiskis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.private.md) 
+### [Kuktiskis.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Kuktiskis.protect.md) 
 
-### [Kuktiskis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.personal.md) 
+### [Kuktiskis.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Kuktiskis.private.md) 
 
-### [Kuktiskis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityKuktiskis.secret.md)
+### [Kuktiskis.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Kuktiskis.personal.md) 
+
+### [Kuktiskis.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Kuktiskis.secret.md)
 

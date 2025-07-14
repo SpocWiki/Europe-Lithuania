@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sventziary.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CitySventziary.public.md) 
+### [Sventziary](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Sventziary.md) 
 
-### [Sventziary.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CitySventziary.internal.md) 
+### [Sventziary.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Sventziary.public.md) 
 
-### [Sventziary.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CitySventziary.protect.md) 
+### [Sventziary.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Sventziary.internal.md) 
 
-### [Sventziary.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CitySventziary.private.md) 
+### [Sventziary.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Sventziary.protect.md) 
 
-### [Sventziary.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CitySventziary.personal.md) 
+### [Sventziary.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Sventziary.private.md) 
 
-### [Sventziary.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Vilniaus\CitySventziary.secret.md)
+### [Sventziary.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Sventziary.personal.md) 
+
+### [Sventziary.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Sventziary.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Didkienis.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.public.md) 
+### [Didkienis](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.md) 
 
-### [Didkienis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.internal.md) 
+### [Didkienis.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.public.md) 
 
-### [Didkienis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.protect.md) 
+### [Didkienis.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.internal.md) 
 
-### [Didkienis.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.private.md) 
+### [Didkienis.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.protect.md) 
 
-### [Didkienis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.personal.md) 
+### [Didkienis.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.private.md) 
 
-### [Didkienis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Taurages\CityDidkienis.secret.md)
+### [Didkienis.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.personal.md) 
+
+### [Didkienis.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.secret.md)
 

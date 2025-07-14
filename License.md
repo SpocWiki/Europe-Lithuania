@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\LithuaniaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\LithuaniaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\LithuaniaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\LithuaniaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\LithuaniaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\LithuaniaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/License.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kursenau.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityKursenau.public.md) 
+### [Kursenau](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Kursenau.md) 
 
-### [Kursenau.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityKursenau.internal.md) 
+### [Kursenau.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Kursenau.public.md) 
 
-### [Kursenau.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityKursenau.protect.md) 
+### [Kursenau.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Kursenau.internal.md) 
 
-### [Kursenau.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityKursenau.private.md) 
+### [Kursenau.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Kursenau.protect.md) 
 
-### [Kursenau.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityKursenau.personal.md) 
+### [Kursenau.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Kursenau.private.md) 
 
-### [Kursenau.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityKursenau.secret.md)
+### [Kursenau.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Kursenau.personal.md) 
+
+### [Kursenau.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Kursenau.secret.md)
 

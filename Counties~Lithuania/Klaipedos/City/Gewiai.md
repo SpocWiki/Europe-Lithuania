@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gewiai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.public.md) 
+### [Gewiai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos/City/Gewiai.md) 
 
-### [Gewiai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.internal.md) 
+### [Gewiai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos/City/Gewiai.public.md) 
 
-### [Gewiai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.protect.md) 
+### [Gewiai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos/City/Gewiai.internal.md) 
 
-### [Gewiai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.private.md) 
+### [Gewiai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos/City/Gewiai.protect.md) 
 
-### [Gewiai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.personal.md) 
+### [Gewiai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos/City/Gewiai.private.md) 
 
-### [Gewiai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Klaipedos\CityGewiai.secret.md)
+### [Gewiai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos/City/Gewiai.personal.md) 
+
+### [Gewiai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos/City/Gewiai.secret.md)
 

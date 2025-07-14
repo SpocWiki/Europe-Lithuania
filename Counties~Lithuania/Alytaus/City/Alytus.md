@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alytus.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.public.md) 
+### [Alytus](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.md) 
 
-### [Alytus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.internal.md) 
+### [Alytus.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.public.md) 
 
-### [Alytus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.protect.md) 
+### [Alytus.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.internal.md) 
 
-### [Alytus.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.private.md) 
+### [Alytus.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.protect.md) 
 
-### [Alytus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.personal.md) 
+### [Alytus.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.private.md) 
 
-### [Alytus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Alytaus\CityAlytus.secret.md)
+### [Alytus.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.personal.md) 
+
+### [Alytus.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.secret.md)
 

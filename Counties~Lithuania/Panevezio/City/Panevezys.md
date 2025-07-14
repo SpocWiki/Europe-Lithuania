@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Panevezys.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanevezys.public.md) 
+### [Panevezys](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panevezys.md) 
 
-### [Panevezys.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanevezys.internal.md) 
+### [Panevezys.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panevezys.public.md) 
 
-### [Panevezys.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanevezys.protect.md) 
+### [Panevezys.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panevezys.internal.md) 
 
-### [Panevezys.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanevezys.private.md) 
+### [Panevezys.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panevezys.protect.md) 
 
-### [Panevezys.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanevezys.personal.md) 
+### [Panevezys.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panevezys.private.md) 
 
-### [Panevezys.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityPanevezys.secret.md)
+### [Panevezys.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panevezys.personal.md) 
+
+### [Panevezys.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Panevezys.secret.md)
 

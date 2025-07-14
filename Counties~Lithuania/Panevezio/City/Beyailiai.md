@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beyailiai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.public.md) 
+### [Beyailiai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Beyailiai.md) 
 
-### [Beyailiai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.internal.md) 
+### [Beyailiai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Beyailiai.public.md) 
 
-### [Beyailiai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.protect.md) 
+### [Beyailiai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Beyailiai.internal.md) 
 
-### [Beyailiai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.private.md) 
+### [Beyailiai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Beyailiai.protect.md) 
 
-### [Beyailiai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.personal.md) 
+### [Beyailiai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Beyailiai.private.md) 
 
-### [Beyailiai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Panevezio\CityBeyailiai.secret.md)
+### [Beyailiai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Beyailiai.personal.md) 
+
+### [Beyailiai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Panevezio/City/Beyailiai.secret.md)
 

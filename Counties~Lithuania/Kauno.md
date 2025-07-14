@@ -41,15 +41,17 @@ markerFolder: ./Kauno/
 
 ## Confidential Links & Embeds: 
 
-### [Kauno.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.public.md) 
+### [Kauno](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno.md) 
 
-### [Kauno.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.internal.md) 
+### [Kauno.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno.public.md) 
 
-### [Kauno.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.protect.md) 
+### [Kauno.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno.internal.md) 
 
-### [Kauno.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.private.md) 
+### [Kauno.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno.protect.md) 
 
-### [Kauno.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.personal.md) 
+### [Kauno.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno.private.md) 
 
-### [Kauno.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKauno.secret.md)
+### [Kauno.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno.personal.md) 
+
+### [Kauno.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Kauno.secret.md)
 

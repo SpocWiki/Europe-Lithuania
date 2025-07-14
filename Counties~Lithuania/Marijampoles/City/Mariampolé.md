@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mariampolé.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.public.md) 
+### [Mariampolé](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Mariampolé.md) 
 
-### [Mariampolé.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.internal.md) 
+### [Mariampolé.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Mariampolé.public.md) 
 
-### [Mariampolé.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.protect.md) 
+### [Mariampolé.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Mariampolé.internal.md) 
 
-### [Mariampolé.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.private.md) 
+### [Mariampolé.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Mariampolé.protect.md) 
 
-### [Mariampolé.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.personal.md) 
+### [Mariampolé.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Mariampolé.private.md) 
 
-### [Mariampolé.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityMariampolé.secret.md)
+### [Mariampolé.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Mariampolé.personal.md) 
+
+### [Mariampolé.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Mariampolé.secret.md)
 

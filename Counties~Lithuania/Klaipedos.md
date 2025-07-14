@@ -41,15 +41,17 @@ markerFolder: ./Klaipedos/
 
 ## Confidential Links & Embeds: 
 
-### [Klaipedos.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKlaipedos.public.md) 
+### [Klaipedos](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos.md) 
 
-### [Klaipedos.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKlaipedos.internal.md) 
+### [Klaipedos.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos.public.md) 
 
-### [Klaipedos.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKlaipedos.protect.md) 
+### [Klaipedos.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos.internal.md) 
 
-### [Klaipedos.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKlaipedos.private.md) 
+### [Klaipedos.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos.protect.md) 
 
-### [Klaipedos.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKlaipedos.personal.md) 
+### [Klaipedos.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos.private.md) 
 
-### [Klaipedos.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaKlaipedos.secret.md)
+### [Klaipedos.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos.personal.md) 
+
+### [Klaipedos.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Klaipedos.secret.md)
 

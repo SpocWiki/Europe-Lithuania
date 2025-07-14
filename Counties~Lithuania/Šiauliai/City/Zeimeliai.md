@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zeimeliai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.public.md) 
+### [Zeimeliai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Zeimeliai.md) 
 
-### [Zeimeliai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.internal.md) 
+### [Zeimeliai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Zeimeliai.public.md) 
 
-### [Zeimeliai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.protect.md) 
+### [Zeimeliai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Zeimeliai.internal.md) 
 
-### [Zeimeliai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.private.md) 
+### [Zeimeliai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Zeimeliai.protect.md) 
 
-### [Zeimeliai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.personal.md) 
+### [Zeimeliai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Zeimeliai.private.md) 
 
-### [Zeimeliai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Šiauliai\CityZeimeliai.secret.md)
+### [Zeimeliai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Zeimeliai.personal.md) 
+
+### [Zeimeliai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Šiauliai/City/Zeimeliai.secret.md)
 

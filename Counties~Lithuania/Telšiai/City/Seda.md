@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seda.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CitySeda.public.md) 
+### [Seda](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Seda.md) 
 
-### [Seda.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CitySeda.internal.md) 
+### [Seda.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Seda.public.md) 
 
-### [Seda.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CitySeda.protect.md) 
+### [Seda.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Seda.internal.md) 
 
-### [Seda.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CitySeda.private.md) 
+### [Seda.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Seda.protect.md) 
 
-### [Seda.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CitySeda.personal.md) 
+### [Seda.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Seda.private.md) 
 
-### [Seda.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CitySeda.secret.md)
+### [Seda.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Seda.personal.md) 
+
+### [Seda.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Seda.secret.md)
 

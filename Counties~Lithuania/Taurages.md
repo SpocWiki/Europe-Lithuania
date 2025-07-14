@@ -41,15 +41,17 @@ markerFolder: ./Taurages/
 
 ## Confidential Links & Embeds: 
 
-### [Taurages.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTaurages.public.md) 
+### [Taurages](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.md) 
 
-### [Taurages.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTaurages.internal.md) 
+### [Taurages.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.public.md) 
 
-### [Taurages.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTaurages.protect.md) 
+### [Taurages.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.internal.md) 
 
-### [Taurages.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTaurages.private.md) 
+### [Taurages.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.protect.md) 
 
-### [Taurages.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTaurages.personal.md) 
+### [Taurages.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.private.md) 
 
-### [Taurages.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaTaurages.secret.md)
+### [Taurages.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.personal.md) 
+
+### [Taurages.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.secret.md)
 

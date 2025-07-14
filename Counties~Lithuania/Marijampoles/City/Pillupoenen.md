@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pillupoenen.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityPillupoenen.public.md) 
+### [Pillupoenen](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Pillupoenen.md) 
 
-### [Pillupoenen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityPillupoenen.internal.md) 
+### [Pillupoenen.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Pillupoenen.public.md) 
 
-### [Pillupoenen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityPillupoenen.protect.md) 
+### [Pillupoenen.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Pillupoenen.internal.md) 
 
-### [Pillupoenen.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityPillupoenen.private.md) 
+### [Pillupoenen.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Pillupoenen.protect.md) 
 
-### [Pillupoenen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityPillupoenen.personal.md) 
+### [Pillupoenen.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Pillupoenen.private.md) 
 
-### [Pillupoenen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Marijampoles\CityPillupoenen.secret.md)
+### [Pillupoenen.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Pillupoenen.personal.md) 
+
+### [Pillupoenen.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Marijampoles/City/Pillupoenen.secret.md)
 

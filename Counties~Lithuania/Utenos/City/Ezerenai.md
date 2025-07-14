@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ezerenai.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.public.md) 
+### [Ezerenai](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Ezerenai.md) 
 
-### [Ezerenai.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.internal.md) 
+### [Ezerenai.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Ezerenai.public.md) 
 
-### [Ezerenai.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.protect.md) 
+### [Ezerenai.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Ezerenai.internal.md) 
 
-### [Ezerenai.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.private.md) 
+### [Ezerenai.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Ezerenai.protect.md) 
 
-### [Ezerenai.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.personal.md) 
+### [Ezerenai.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Ezerenai.private.md) 
 
-### [Ezerenai.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Utenos\CityEzerenai.secret.md)
+### [Ezerenai.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Ezerenai.personal.md) 
+
+### [Ezerenai.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos/City/Ezerenai.secret.md)
 

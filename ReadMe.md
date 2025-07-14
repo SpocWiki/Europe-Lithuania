@@ -133,15 +133,17 @@ Capital :: [[Vilnius]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\LithuaniaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\LithuaniaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\LithuaniaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\LithuaniaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\LithuaniaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\LithuaniaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/ReadMe.secret.md)
 

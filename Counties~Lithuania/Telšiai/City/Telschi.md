@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Telschi.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityTelschi.public.md) 
+### [Telschi](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Telschi.md) 
 
-### [Telschi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityTelschi.internal.md) 
+### [Telschi.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Telschi.public.md) 
 
-### [Telschi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityTelschi.protect.md) 
+### [Telschi.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Telschi.internal.md) 
 
-### [Telschi.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityTelschi.private.md) 
+### [Telschi.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Telschi.protect.md) 
 
-### [Telschi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityTelschi.personal.md) 
+### [Telschi.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Telschi.private.md) 
 
-### [Telschi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~Lithuania\Telšiai\CityTelschi.secret.md)
+### [Telschi.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Telschi.personal.md) 
+
+### [Telschi.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Telšiai/City/Telschi.secret.md)
 

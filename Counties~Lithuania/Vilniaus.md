@@ -41,15 +41,17 @@ markerFolder: ./Vilniaus/
 
 ## Confidential Links & Embeds: 
 
-### [Vilniaus.public](/_public/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaVilniaus.public.md) 
+### [Vilniaus](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus.md) 
 
-### [Vilniaus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaVilniaus.internal.md) 
+### [Vilniaus.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus.public.md) 
 
-### [Vilniaus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaVilniaus.protect.md) 
+### [Vilniaus.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus.internal.md) 
 
-### [Vilniaus.private](/_private/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaVilniaus.private.md) 
+### [Vilniaus.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus.protect.md) 
 
-### [Vilniaus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaVilniaus.personal.md) 
+### [Vilniaus.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus.private.md) 
 
-### [Vilniaus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Lithuania\Counties~LithuaniaVilniaus.secret.md)
+### [Vilniaus.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus.personal.md) 
+
+### [Vilniaus.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus.secret.md)
 
