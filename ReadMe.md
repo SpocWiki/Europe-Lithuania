@@ -1,38 +1,39 @@
 ---
 location:
-- 54.6833
-- 25.3167
+  - 54.6833
+  - 25.3167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26952
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Lithuania
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Lithuania
-- Lituania
-- Lituanie
-- ليتوانيا
-- 立陶宛
-- Литва
-- the Republic of Lithuania
-- la República de Lituania
+  - Lithuania
+  - Lituania
+  - Lituanie
+  - ليتوانيا
+  - 立陶宛
+  - Литва
+  - the Republic of Lithuania
+  - la República de Lituania
 Languages:
-- lt
-- ru
-- pl
+  - lt
+  - ru
+  - pl
 ---
 
 
