@@ -21,7 +21,7 @@ basic_form_of_government:
   - "[[_Standards/WikiData/WD~monarchy,7269]]"
 legislative_body: "[[_Standards/WikiData/WD~Seimas_of_the_Grand_Duchy_of_Lithuania,596840]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
 religion_or_worldview:
