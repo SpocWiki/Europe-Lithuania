@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Lithuania
+  - Lituania
+  - Lituanie
+  - ليتوانيا
+  - 立陶宛
+  - Литва
+  - the Republic of Lithuania
+  - la República de Lituania
+  - ReadMe
 location:
   - 54.6833
   - 25.3167
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Lithuania
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Lithuania
-  - Lituania
-  - Lituanie
-  - ليتوانيا
-  - 立陶宛
-  - Литва
-  - the Republic of Lithuania
-  - la República de Lituania
+publishDate: ''
+expiryDate: ''
 Languages:
   - lt
   - ru

@@ -1,66 +1,67 @@
 ---
 aliases:
   - Grand Duchy of Lithuania
+  - Grand_Duchy_of_Lithuania
 has_id_wikidata: Q49683
-currency: "[[_Standards/WikiData/WD~groschen,159505]]"
-part_of: "[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Statutes_of_Lithuania,197806]]"
+currency: '[[_Standards/WikiData/WD~groschen,159505]]'
+part_of: '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Statutes_of_Lithuania,197806]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Vitebsk_Voivodeship,550403]]"
-  - "[[_Standards/WikiData/WD~Minsk_Voivodeship,782119]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Samogitia,1473221]]"
-  - "[[_Standards/WikiData/WD~Vilnius_Voivodeship,2347932]]"
-  - "[[_Standards/WikiData/WD~Trakai_Voivodeship,2347967]]"
-  - "[[_Standards/WikiData/WD~Brest_Litovsk_Voivodeship,2347977]]"
-  - "[[_Standards/WikiData/WD~Polotsk_Voivodeship,2347987]]"
-  - "[[_Standards/WikiData/WD~Smolensk_Voivodeship,2454841]]"
-  - "[[_Standards/WikiData/WD~Mstsislaw_Voivodeship,2464958]]"
-  - "[[_Standards/WikiData/WD~Nowogródek_Voivodeship,2991196]]"
+  - '[[_Standards/WikiData/WD~Vitebsk_Voivodeship,550403]]'
+  - '[[_Standards/WikiData/WD~Minsk_Voivodeship,782119]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Samogitia,1473221]]'
+  - '[[_Standards/WikiData/WD~Vilnius_Voivodeship,2347932]]'
+  - '[[_Standards/WikiData/WD~Trakai_Voivodeship,2347967]]'
+  - '[[_Standards/WikiData/WD~Brest_Litovsk_Voivodeship,2347977]]'
+  - '[[_Standards/WikiData/WD~Polotsk_Voivodeship,2347987]]'
+  - '[[_Standards/WikiData/WD~Smolensk_Voivodeship,2454841]]'
+  - '[[_Standards/WikiData/WD~Mstsislaw_Voivodeship,2464958]]'
+  - '[[_Standards/WikiData/WD~Nowogródek_Voivodeship,2991196]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~elective_monarchy,584683]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
-legislative_body: "[[_Standards/WikiData/WD~Seimas_of_the_Grand_Duchy_of_Lithuania,596840]]"
+  - '[[_Standards/WikiData/WD~elective_monarchy,584683]]'
+  - '[[_Standards/WikiData/WD~monarchy,7269]]'
+legislative_body: '[[_Standards/WikiData/WD~Seimas_of_the_Grand_Duchy_of_Lithuania,596840]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Baltic_mythology,805779]]"
-  - "[[_Standards/WikiData/WD~Byzantine_Catholic_Churches,1546359]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-  - "[[_Standards/WikiData/WD~Folk_Orthodoxy,55647808]]"
-  - "[[_Standards/WikiData/WD~Catholicism,1841]]"
-anthem: "[[_Standards/WikiData/WD~Bogurodzica,890692]]"
-diplomatic_relation: "[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Grand_Duke_of_Lithuania,2639920]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - '[[_Standards/WikiData/WD~Baltic_mythology,805779]]'
+  - '[[_Standards/WikiData/WD~Byzantine_Catholic_Churches,1546359]]'
+  - '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+  - '[[_Standards/WikiData/WD~Folk_Orthodoxy,55647808]]'
+  - '[[_Standards/WikiData/WD~Catholicism,1841]]'
+anthem: '[[_Standards/WikiData/WD~Bogurodzica,890692]]'
+diplomatic_relation: '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Grand_Duke_of_Lithuania,2639920]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Old_Ukrainian,6536321]]"
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Polish,809]]"
-  - "[[_Standards/WikiData/WD~Ruthenian,13211]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q8048513,8048513]]"
-shares_border_with: "[[_Standards/WikiData/WD~Principality_of_Moldavia,10957559]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q84173871,84173871]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Grand_Duchy_of_Lithuania,113638705]]"
-flag: "[[_Standards/WikiData/WD~Flag_of_the_Grand_Duchy_of_Lithuania,114437065]]"
+  - '[[_Standards/WikiData/WD~Old_Ukrainian,6536321]]'
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Polish,809]]'
+  - '[[_Standards/WikiData/WD~Ruthenian,13211]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8048513,8048513]]'
+shares_border_with: '[[_Standards/WikiData/WD~Principality_of_Moldavia,10957559]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q84173871,84173871]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Grand_Duchy_of_Lithuania,113638705]]'
+flag: '[[_Standards/WikiData/WD~Flag_of_the_Grand_Duchy_of_Lithuania,114437065]]'
 located_in_the_present_day_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Lithuania,37]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Estonia,191]]"
-  - "[[_Standards/WikiData/WD~Latvia,211]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Podlaskie_Voivodeship,54177]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Lithuania,37]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Belarus,184]]'
+  - '[[_Standards/WikiData/WD~Estonia,191]]'
+  - '[[_Standards/WikiData/WD~Latvia,211]]'
+  - '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - '[[_Standards/WikiData/WD~Moldova,217]]'
+  - '[[_Standards/WikiData/WD~Podlaskie_Voivodeship,54177]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 area:
   - 200000
   - 250000
   - 320000
   - 930000
   - 132000
-capital: "[[_Standards/WikiData/WD~Vilnius,216]]"
+capital: '[[_Standards/WikiData/WD~Vilnius,216]]'
 population:
   - 400000
   - 3500000

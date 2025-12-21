@@ -1,11 +1,13 @@
 ---
 aliases:
   - history of Lithuania
+  - History_of_Lithuania
+  - History of Lithuania
 has_id_wikidata: Q215063
-described_by_source: "[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Lithuania,12397778]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Lithuania,37]]"
+described_by_source: '[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Lithuania,12397778]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+facet_of: '[[_Standards/WikiData/WD~Lithuania,37]]'
 Commons_category: History of Lithuania
 ---
 
