@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1236-01-01 
+has_time_stopped: 1795-01-01 
 aliases:
   - Grand Duchy of Lithuania
   - Grand_Duchy_of_Lithuania
