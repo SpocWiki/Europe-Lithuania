@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.3
 dv_has_place_latitude: 55.93
-dv_name: Siauliai
+dv_has_name_: Siauliai
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

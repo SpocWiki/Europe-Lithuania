@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.8
 dv_has_place_latitude: 55.55
-dv_name: Gudzianai
+dv_has_name_: Gudzianai
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

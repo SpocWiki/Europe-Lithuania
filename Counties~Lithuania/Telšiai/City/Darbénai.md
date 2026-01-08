@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.77
 dv_has_place_latitude: 56.03
-dv_name: Darbénai
+dv_has_name_: Darbénai
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

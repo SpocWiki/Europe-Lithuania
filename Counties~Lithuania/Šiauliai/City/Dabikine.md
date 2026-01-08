@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.73
 dv_has_place_latitude: 56.22
-dv_name: Dabikine
+dv_has_name_: Dabikine
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

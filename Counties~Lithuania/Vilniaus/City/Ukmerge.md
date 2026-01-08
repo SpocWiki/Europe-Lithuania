@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.77
 dv_has_place_latitude: 55.23
-dv_name: Ukmerge
+dv_has_name_: Ukmerge
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

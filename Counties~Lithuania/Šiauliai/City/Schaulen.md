@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.4
 dv_has_place_latitude: 55.95
-dv_name: Schaulen
+dv_has_name_: Schaulen
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

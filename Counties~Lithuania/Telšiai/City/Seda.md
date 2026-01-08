@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.1
 dv_has_place_latitude: 56.17
-dv_name: Seda
+dv_has_name_: Seda
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

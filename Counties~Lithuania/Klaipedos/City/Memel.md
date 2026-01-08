@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.1
 dv_has_place_latitude: 55.73
-dv_name: Memel
+dv_has_name_: Memel
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.22
 dv_has_place_latitude: 55.9
-dv_name: Kretinga
+dv_has_name_: Kretinga
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

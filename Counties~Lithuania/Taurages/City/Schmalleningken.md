@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.6
 dv_has_place_latitude: 55.08
-dv_name: Schmalleningken
+dv_has_name_: Schmalleningken
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

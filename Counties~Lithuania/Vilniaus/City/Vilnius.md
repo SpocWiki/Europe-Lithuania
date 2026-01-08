@@ -3,7 +3,7 @@ dv_"Concept", "CapitalOfLithuania: y6263"
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.31667
 dv_has_place_latitude: 54.68333
-dv_name: Vilnius
+dv_has_name_: Vilnius
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Vilnius,216|WD~Vilnius,216]]"

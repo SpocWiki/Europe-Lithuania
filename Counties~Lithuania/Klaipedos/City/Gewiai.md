@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.03
 dv_has_place_latitude: 55.17
-dv_name: Gewiai
+dv_has_name_: Gewiai
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

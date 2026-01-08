@@ -43,15 +43,13 @@ dv_ISO4217-currency_country_name: LITHUANIA
 dv_Telephone: 370
 dv_Global: true
 dv_Global_Name: World
-dv_name: Lithuania
-dv_name-en:
-  - Lithuania
-  - Lithuania
-dv_name-es: Lituania
-dv_name-fr: Lituanie
-dv_name-cn: 立陶宛
-dv_name-ar: ليتوانيا
-dv_name-ru: Литва
+dv_has_name_: Lithuania
+dv_has_name_en: Lithuania
+dv_has_name_es: Lituania
+dv_has_name_fr: Lituanie
+dv_has_name_cn: 立陶宛
+dv_has_name_ar: ليتوانيا
+dv_has_name_ru: Литва
 dv_CLDR_display_name: Lithuania
 dv_UNTERM_English: Lithuania
 dv_UNTERM_English_Formal: the Republic of Lithuania
@@ -88,7 +86,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 440
 dv_ISO2: LT
 dv_ISO3: LTU
-dv_name-de: Litauen
+dv_has_name_de: Litauen
 dv_Area-Total: 65300
 dv_Area-Land: 30080
 dv_Continent: "[[../../../Europe]]"
@@ -114,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Lithuania ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Lithuania ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -179,8 +177,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Lithuania] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Lithuania] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

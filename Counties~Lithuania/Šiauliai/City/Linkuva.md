@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.98
 dv_has_place_latitude: 56.12
-dv_name: Linkuva
+dv_has_name_: Linkuva
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.47
 dv_has_place_latitude: 55.88
-dv_name: Panemunedis
+dv_has_name_: Panemunedis
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

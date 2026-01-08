@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.88
 dv_has_place_latitude: 54.5
-dv_name: Pillupoenen
+dv_has_name_: Pillupoenen
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 dv_StateId: 36942
 ---

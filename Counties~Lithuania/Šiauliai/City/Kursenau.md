@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23
 dv_has_place_latitude: 56.02
-dv_name: Kursenau
+dv_has_name_: Kursenau
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

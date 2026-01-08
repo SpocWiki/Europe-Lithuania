@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.5
 dv_has_place_latitude: 56.12
-dv_name: Paasmené
+dv_has_name_: Paasmené
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.85
 dv_has_place_latitude: 55.07
-dv_name: Jurbarkas
+dv_has_name_: Jurbarkas
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

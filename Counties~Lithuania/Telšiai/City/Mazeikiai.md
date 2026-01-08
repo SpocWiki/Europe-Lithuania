@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.33
 dv_has_place_latitude: 56.32
-dv_name: Mazeikiai
+dv_has_name_: Mazeikiai
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
