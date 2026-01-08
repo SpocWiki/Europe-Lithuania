@@ -4,16 +4,19 @@ aliases:
   - History_of_Lithuania
   - History of Lithuania
 has_id_wikidata: Q215063
-described_by_source: '[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Lithuania,12397778]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-facet_of: '[[_Standards/WikiData/WD~Lithuania,37]]'
+described_by_source: "[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Lithuania,12397778]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Lithuania,37]]"
 Commons_category: History of Lithuania
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Lithuania,215063]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Lithuania,215063]]"
 ---
 
 # [[History_of_Lithuania]] 
 
-#is_/same_as :: [[WD~History_of_Lithuania,215063]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -55,4 +58,21 @@ Commons_category: History of Lithuania
 > Lithuania joined the NATO alliance in 2004 and the European Union as part of its enlargement in 2004.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Lithuania) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/History_of_Lithuania|History_of_Lithuania]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania/History_of_Lithuania.public|History_of_Lithuania.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania/History_of_Lithuania.internal|History_of_Lithuania.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania/History_of_Lithuania.protect|History_of_Lithuania.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania/History_of_Lithuania.private|History_of_Lithuania.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania/History_of_Lithuania.personal|History_of_Lithuania.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania/History_of_Lithuania.secret|History_of_Lithuania.secret]] 
 

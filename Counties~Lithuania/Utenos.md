@@ -40,17 +40,17 @@ markerFolder: ./Utenos/
 
 ## Confidential Links & Embeds: 
 
-### [Utenos](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos|Utenos]] 
 
-### [Utenos.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.public|Utenos.public]] 
 
-### [Utenos.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.internal|Utenos.internal]] 
 
-### [Utenos.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.protect|Utenos.protect]] 
 
-### [Utenos.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.private|Utenos.private]] 
 
-### [Utenos.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.personal|Utenos.personal]] 
 
-### [Utenos.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Utenos.secret|Utenos.secret]] 
 

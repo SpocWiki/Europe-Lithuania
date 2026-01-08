@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29780
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.22
+dv_has_place_latitude: 55.38
+dv_name: Didkienis
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.22] 
-[has_place_latitude::55.38] 
-[name::Didkienis] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Didkienis](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis|Didkienis]] 
 
-### [Didkienis.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.public|Didkienis.public]] 
 
-### [Didkienis.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.internal|Didkienis.internal]] 
 
-### [Didkienis.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.protect|Didkienis.protect]] 
 
-### [Didkienis.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.private|Didkienis.private]] 
 
-### [Didkienis.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.personal|Didkienis.personal]] 
 
-### [Didkienis.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages/City/Didkienis.secret|Didkienis.secret]] 
 

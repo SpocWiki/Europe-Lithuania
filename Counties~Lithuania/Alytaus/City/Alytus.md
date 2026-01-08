@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28792
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.13
+dv_has_place_latitude: 54.43
+dv_name: Alytus
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.13] 
-[has_place_latitude::54.43] 
-[name::Alytus] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alytus](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus|Alytus]] 
 
-### [Alytus.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.public|Alytus.public]] 
 
-### [Alytus.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.internal|Alytus.internal]] 
 
-### [Alytus.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.protect|Alytus.protect]] 
 
-### [Alytus.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.private|Alytus.private]] 
 
-### [Alytus.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.personal|Alytus.personal]] 
 
-### [Alytus.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Alytaus/City/Alytus.secret|Alytus.secret]] 
 

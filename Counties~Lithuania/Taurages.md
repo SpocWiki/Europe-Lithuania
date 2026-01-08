@@ -40,17 +40,17 @@ markerFolder: ./Taurages/
 
 ## Confidential Links & Embeds: 
 
-### [Taurages](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages|Taurages]] 
 
-### [Taurages.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.public|Taurages.public]] 
 
-### [Taurages.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.internal|Taurages.internal]] 
 
-### [Taurages.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.protect|Taurages.protect]] 
 
-### [Taurages.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.private|Taurages.private]] 
 
-### [Taurages.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.personal|Taurages.personal]] 
 
-### [Taurages.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Taurages.secret|Taurages.secret]] 
 

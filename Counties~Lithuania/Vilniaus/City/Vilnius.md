@@ -1,4 +1,15 @@
-﻿---
+---
+dv_"Concept", "CapitalOfLithuania: y6263"
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.31667
+dv_has_place_latitude: 54.68333
+dv_name: Vilnius
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Vilnius,216|WD~Vilnius,216]]"
+dv_concept-capitaloflithuania: y6263"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Vilnius,216|WD~Vilnius,216]]"
+
 has_time_started: 1201-01-01 
 aliases:
   - Vilnius
@@ -133,7 +144,7 @@ located_in_time_zone:
 BHCL_UUID:
   - 26bafc69-bf3d-4fe0-8fc2-a7a8d6cfcb34
   - 4957de75-b8a0-4c82-8fc2-24938886105c
-Wolfram_Language_entity_code: Entity["Concept", "CapitalOfLithuania::y6263"]
+Wolfram_Language_entity_code: Entity"Concept", "CapitalOfLithuania = `=this.dv_"Concept", "CapitalOfLithuania`
 Instagram_username: i_am_vilnius
 DPLA_subject_term:
   - Vilna
@@ -188,16 +199,16 @@ Libris_URI: 0xbddj1j5029qhl
 # [[Vilnius]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.31667] 
-[has_place_latitude::54.68333] 
-[name::Vilnius] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Lithuania]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Vilnius,216|WD~Vilnius,216]] 
+Unknown = `=this.dv_Unknown` 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -255,19 +266,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vilnius)
 
+
 ## Confidential Links & Embeds: 
 
-### [Vilnius](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius|Vilnius]] 
 
-### [Vilnius.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.public|Vilnius.public]] 
 
-### [Vilnius.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.internal|Vilnius.internal]] 
 
-### [Vilnius.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.protect|Vilnius.protect]] 
 
-### [Vilnius.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.private|Vilnius.private]] 
 
-### [Vilnius.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.personal|Vilnius.personal]] 
 
-### [Vilnius.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius.secret|Vilnius.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Grand_Duchy_of_Lithuania,49683|WD~Grand_Duchy_of_Lithuania,49683]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Grand_Duchy_of_Lithuania,49683|WD~Grand_Duchy_of_Lithuania,49683]]"
+
 has_time_started: 1236-01-01 
 has_time_stopped: 1795-01-01 
 aliases:
@@ -87,7 +91,7 @@ coordinate_location: Point(25.28333333 54.68333333)
 
 # [[Grand_Duchy_of_Lithuania]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Grand_Duchy_of_Lithuania,49683|WD~Grand_Duchy_of_Lithuania,49683]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -128,4 +132,21 @@ coordinate_location: Point(25.28333333 54.68333333)
 > Eventually, the Union of Lublin of 1569 created a new state, the Polish–Lithuanian Commonwealth. In this federation, the Grand Duchy of Lithuania maintained its political distinctiveness and had separate ministries, laws, army, and treasury. The federation was terminated by the passing of the Constitution of 3 May 1791, when it was supposed to become a single country, the Commonwealth, under one monarch, one parliament and with no Lithuanian autonomy. Shortly afterward, the unitary character of the state was confirmed by adopting the Reciprocal Guarantee of Two Nations. However, the newly reformed Commonwealth was invaded by Russia in 1792 and partitioned between neighbouring states. A truncated state (whose principal cities were Kraków, Warsaw and Vilnius) remained that was nominally independent. After the Kościuszko Uprising, the territory was completely partitioned among the Russian Empire, the Kingdom of Prussia and Austria in 1795.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grand%20Duchy%20of%20Lithuania) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania/Grand_Duchy_of_Lithuania|Grand_Duchy_of_Lithuania]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Lithuania/Grand_Duchy_of_Lithuania.public|Grand_Duchy_of_Lithuania.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Lithuania/Grand_Duchy_of_Lithuania.internal|Grand_Duchy_of_Lithuania.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Lithuania/Grand_Duchy_of_Lithuania.protect|Grand_Duchy_of_Lithuania.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Lithuania/Grand_Duchy_of_Lithuania.private|Grand_Duchy_of_Lithuania.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Lithuania/Grand_Duchy_of_Lithuania.personal|Grand_Duchy_of_Lithuania.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Lithuania/Grand_Duchy_of_Lithuania.secret|Grand_Duchy_of_Lithuania.secret]] 
 
