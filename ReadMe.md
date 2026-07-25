@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 立陶宛共和国
 dv_UNTERM_French_Formal: la République de Lituanie
 dv_UNTERM_Russian: Литва
 dv_UNTERM_Russian_Formal: Литовская Республика
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Lithuania]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -52,7 +52,7 @@ dv_ISO2: LT
 dv_ISO3: LTU
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+  - '[[../../../../../WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania|Lithuania]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Lithuania.public|Lithuania.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal|Lithuania.internal]]'
@@ -386,16 +386,16 @@ dv_has_:
 dv_has_name_de: Litauen
 dv_Area-Total: 65300
 dv_Area-Land: 30080
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: LT
-dv_Capital: '[[Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius|Vilnius]]'
+dv_Capital: '[[Counties~Lithuania/Vilniaus/City/Vilnius|Vilnius]]'
 dv_Alcohol-l: 15
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.3167
 dv_has_place_latitude: 54.6833
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+- '[[../../../../../WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Lithuania|Lithuania]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Lithuania.public|Lithuania.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal|Lithuania.internal]]'
@@ -582,7 +582,7 @@ executive_body: '[[/_Standards/WikiData/WD~Government_of_Lithuania,277656|WD~Gov
 patron_saint: '[[/_Standards/WikiData/WD~Saint_Casimir,312057|WD~Saint_Casimir,312057]]'
 legislative_body: '[[/_Standards/WikiData/WD~Seimas,374152|WD~Seimas,374152]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 - '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -963,7 +963,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Lithuania/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -984,7 +984,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Lithuania_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1011,7 +1011,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Lithuania.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Lithuania.mp3|Anthem-Lithuania.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Lithuania.mp3|Anthem-Lithuania.mp3]]
 ![[Flag_of_Lithuania.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
